@@ -1,0 +1,2 @@
+-- chiedi a chat gbt per crrare dei file con il v1 cosi scrivi
+--        qua il cdice per insert in database
